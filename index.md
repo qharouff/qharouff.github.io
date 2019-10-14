@@ -1,8 +1,8 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Quentin GitHub Site
+tagline: Directory of Quentin's Public Projects
+description: A full overview of Quentin's Public coding projects.
 ---
 
-[Twitter](https://twitter.com/QuentinIRL)
+See me on [Twitter - QuentinIRL](https://twitter.com/QuentinIRL)
